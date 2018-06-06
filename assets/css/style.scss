@@ -3,18 +3,20 @@
 
 @import "{{ site.theme }}";
 
-li.fork {
-    margin-right: 0.5em
+#header.nav.li.fork {
+        margin-right: 0.5em;
 }
 
-div.title{
-    h1 {
-        text-align: left
-    }
-    
-    p {
-        text-align: left
-    }
+section {
+    #title {
+      h1 {
+        text-align: left;
+      }
+  
+      p {
+        text-align: left;
+      }
+  }
 }
 
 ul.posts {  
