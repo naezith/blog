@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: blog.naezith
+description: random stuff
 permalink: /:year/:month/:title
