@@ -13,39 +13,20 @@ section #title {
 section #title h1 {
     text-align: left;
 }
-section #title p {
-    text-align: left;
-}
 
 section #title .credits.left {
     margin: 0;
     float: none;
 }
 
-#header {
-    height: 30px;
-    border-bottom: 2px solid #434343;
-}
-
-#header nav li {
-    line-height: 0;
-}
-
-#header nav li a {
-    margin: 0;
-    line-height: 0;
-    box-shadow: none;
-    border: none;
-}
-
-#header nav li a:hover {
-    border: none;
-}
-
-#header nav li.fork {
-    margin-right: 5px;
-}
-
 hr {
     margin: 27px 0 0 0;
+}
+
+footer hr {
+    margin-bottom: 27px;
+}
+
+footer p {
+    font-size: 12px;
 }
