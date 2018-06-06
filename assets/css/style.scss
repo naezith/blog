@@ -6,7 +6,7 @@
 section {
     #title {
         margin: 0;
-        
+
         h1 {
             text-align: left;
         }
@@ -21,8 +21,24 @@ section {
     }
 }
 
-#header nav li.fork {
-    margin-right: 5px;
+#header {
+    height: 30px;
+    nav li {
+        line-height: 0;
+        .fork {
+            margin-right: 5px;
+        }
+        
+        a {
+            margin: 0;
+            line-height: 0;
+            box-shadow: none;
+            border: none;
+        }
+        a:hover {
+            border: none;
+        }
+    }
 }
 
 hr {
