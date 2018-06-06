@@ -17,6 +17,9 @@ section {
         .credits {
             margin-top: 0;
             float: none;
+            .left {
+                float: none;
+            }
         }
     }
 }
@@ -25,20 +28,21 @@ section {
     height: 30px;
     nav li {
         line-height: 0;
-        .fork {
-            margin-right: 5px;
-        }
-        
         a {
             margin: 0;
             line-height: 0;
             box-shadow: none;
             border: none;
         }
+
         a:hover {
             border: none;
         }
     }
+}
+
+#header nav li.fork {
+    margin-right: 5px;
 }
 
 hr {
