@@ -4,25 +4,19 @@
 @import "{{ site.theme }}";
 
 section {
-    #title {
-        margin: 0;
-
-        h1 {
-            text-align: left;
-        }
-
-        p {
-            text-align: left;
-        }
-        .credits {
-            margin-top: 0;
-            float: none;
-            .left {
-                float: none;
-            }
-        }
-    }
+    margin-top: 20px;
 }
+
+section #title {
+    margin: 0 0 20px 0;
+}
+section #title h1 {
+    text-align: left;
+}
+section #title p {
+    text-align: left;
+}
+
 section #title .credits.left {
     margin: 0;
     float: none;
@@ -31,15 +25,18 @@ section #title .credits.left {
 #header {
     height: 30px;
 }
+
 #header nav li {
     line-height: 0;
 }
+
 #header nav li a {
     margin: 0;
     line-height: 0;
     box-shadow: none;
     border: none;
 }
+
 #header nav li a:hover {
     border: none;
 }
@@ -49,5 +46,5 @@ section #title .credits.left {
 }
 
 hr {
-    margin: 0;
+    margin: 25px 0 0 0;
 }
