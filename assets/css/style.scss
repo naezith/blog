@@ -5,6 +5,8 @@
 
 section {
     #title {
+        margin: 0;
+        
         h1 {
             text-align: left;
         }
@@ -14,14 +16,15 @@ section {
         }
         .credits {
             margin-top: 0;
+            float: none;
         }
     }
 }
 
-div.fork {
-    margin-right: 3px;
+#header nav li.fork {
+    margin-right: 5px;
 }
 
 hr {
-    margin-top: 10px;
+    margin: 0;
 }
