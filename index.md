@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blog.naezith
+title: blog&period;naezith
 description: List of posts.
 ---
 <h1>Archive</h1>
