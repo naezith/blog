@@ -45,5 +45,10 @@
     {% if site.google_analytics %}
       {% include analytics.html %} 
     {% endif %}
+
+    {% if page.comments %}
+      {% include discus.html %} 
+    {% endif %}
+    <script id="dsq-count-scr" src="//naezith.disqus.com/count.js" async></script>
   </body>
 </html>
