@@ -1,6 +1,6 @@
 ---
 layout: default
-title: archive
+title: Archive
 ---
 <h1>{{ page.title }}</h1>
 <ul>
