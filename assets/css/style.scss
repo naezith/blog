@@ -1,10 +1,6 @@
 ---
 ---
 
-#header.nav.li.fork {
-    margin-right: 0.5em;
-}
-
 section {
     #title {
         h1 {
@@ -18,3 +14,7 @@ section {
 }
 
 @import "{{ site.theme }}";
+
+#header.nav.li.fork {
+    margin-right: 0.5em;
+}
