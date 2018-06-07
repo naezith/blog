@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dude you are doing it wrong! Summary of 4.5 months"
+title: "Dude you are doing it wrong! Summary of 4 months"
 date: 2015-08-02
 ---
 
