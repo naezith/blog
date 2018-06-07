@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How did I make a blog?"
+title: "How I made a blog?"
 date: 2018-06-06
 ---
 
