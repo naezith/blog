@@ -14,7 +14,7 @@ I thought like a small gif with the Zero sprite won't hurt, soooooooo here is a 
 
 Like my other post ["Past 7.5 months as a time-line"](http://naezith.com/past-7-5-months-as-a-time-line/ "Past 7.5 months as a time-line") (I recommend you to check that if you did not), I will do a very similar thing like "Past 4.5 months as a time-line", sounds cool in my opinion. Maybe that is my blogging style. But this time we won't have many gifs because I did not save builds so often. Whatever... lets start! 
 
-\[caption id="" align="aligncenter" width="600"\]![](http://s6.postimg.org/tkutpuwwx/f1_RFrh_Z.png) Twin Claws of Naezith, the thunder dragon.\[/caption\] 
+![](http://s6.postimg.org/tkutpuwwx/f1_RFrh_Z.png) Twin Claws of Naezith, the thunder dragon. 
 
 The Two hooks idea was pretty new and that really pumped me the awesome motivation. I wanted to finish the character design/story/theme so I spent time on thinking, also discussing with friends about those stuff. And I completed those stuff, ofcourse there might be changes but it is like:
 
@@ -25,8 +25,6 @@ Our main character is some treasure hunter, he explores underground to find stuf
 Aaaaaand enough spoilers! But it is like two souls in one body, double personality, so they will talk to each other and the guy will gain the dragon's agility and some supernatural abilities. I haven't find a name for my character yet so I call him "the guy" for now. 
 
 I play my game a lot, I enjoy moving around. Swinging and pulling with the hook, dash, everthing feels fine but I change the movement constants so often to discover some new feeling. So I tweaked them to become less floaty, more responsive. It feels like you have got full control on the character that you can stop or turn or achieve blazing fast speeds anytime you want. I really spend a lot of time on this because this is more important than anything ingame. The controls and feeling of the character are the core. 
-
-I even felt like a jedi, https://instagram.com/p/4SPLOlHYI4/ 
 
 After that, I added tons of map elements and obstacles, you can see couple of them in the video on top but here is the big list: 
 
@@ -97,5 +95,3 @@ And for last 3 days, I am working on a patcher that automaticly updates if there
 I still don't want to share the demo any soon because any little change ingame like slightly increasing the jump height would break all the old replays and time records, thats why I have to clear all the leaderboard and you guys won't like that. I really want to make sure replay system, leaderboards don't have any game-breaking bugs. And also I wait for the game assets, I like Zero from Megaman series but going public with that? No thanks. 
 
 I will also regularly update my followers about the current status and my insights on game development through [@naezith](https://twitter.com/naezith) 
-
-I added [Newsletter](http://naezith.com/newsletter/) to this website, now you can keep yourself updated! I promise I will post more often than this.:)

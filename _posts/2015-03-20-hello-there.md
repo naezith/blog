@@ -8,7 +8,7 @@ After 7.5 months of development I finally decided to make a dev blog, sorry for 
 
 Well I am Tolga, a Computer Engineering student(2nd yr, 4th semester) in Yildiz Technical University. First year we started with Pascal and that's how I started programming. And I liked it so much that I studied Pascal on internet and at the end of first semester, I made a Flappy Bird clone -that was super popular those days- which works on Command Prompt Window. 
 
-\[caption id="attachment_33" align="aligncenter" width="639"\][![Flappy Box](http://naezith.com/wp-content/uploads/2015/03/flappy.png)](http://naezith.com/wp-content/uploads/2015/03/flappy.png) Flappy Box\[/caption\]  
+![Flappy Box](http://naezith.com/wp-content/uploads/2015/03/flappy.png "Flappy Box")] 
 
 And when I share this with people around me, they loved it and that motivated me a lot. I really loved the idea to "produce something, show it, watch their reactions". That motivation boost when someone likes your product is priceless. 
 
