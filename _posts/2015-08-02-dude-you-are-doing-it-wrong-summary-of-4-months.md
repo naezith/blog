@@ -14,7 +14,8 @@ I thought like a small gif with the Zero sprite won't hurt, soooooooo here is a 
 
 Like my other post ["Past 7.5 months as a time-line"](http://blog.naezith.com/2015/03/past-7-months-as-a-time-line "Past 7.5 months as a time-line") (I recommend you to check that if you did not), I will do a very similar thing like "Past 4.5 months as a time-line", sounds cool in my opinion. Maybe that is my blogging style. But this time we won't have many gifs because I did not save builds so often. Whatever... lets start! 
 
-![](/assets/img/twin_claws.png) Twin Claws of Naezith, the thunder dragon. 
+![](/assets/img/twin_claws.png) 
+Twin Claws of Naezith, the thunder dragon. 
 
 The Two hooks idea was pretty new and that really pumped me the awesome motivation. I wanted to finish the character design/story/theme so I spent time on thinking, also discussing with friends about those stuff. And I completed those stuff, ofcourse there might be changes but it is like:
 

@@ -6,7 +6,7 @@ date: 2015-03-22
 
 Hello folks, I took a private message from someone who wants to get into game development but he does not know where to start. I answered his question but I also want to make an article about that because there might be some other people who are in the same situation. 
 
-![](/assets/img/sfml-logo-big.png) Simple and Fast Multimedia Library 
+![](/assets/img/sfml-logo-big.png) 
 
 Well, to be honest, I am a starter too. It's been like ~1 year since I started looking at articles and videos about game development. So everything I talk about in this article are just my experiences and my thoughts, they might be wrong-leading but still... My advices wouldn't be the best ones but at least it might save you from wasting weeks just to decide which language is best? Am I right? Are you in that situation?  
 
