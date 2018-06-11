@@ -8,13 +8,13 @@ Ehh, I know... last post is posted in March (4.5 months older than this post), I
 
 I thought like a small gif with the Zero sprite won't hurt, soooooooo here is a quick and smooth run: 
 
-(Camera view is cropped, normally you see all the obstacles) http://fat.gfycat.com/WebbedAdmirableAlabamamapturtle.webm 
+(Camera view is cropped, normally you see all the obstacles) ![](/assets/img/zero_run.gif)
 
 **Edit (03.08.2015 14:20):** I cropped the view to get a smaller GIF. Many people got confused by the camera view, that's my bad that I did not mention, height of the character sprite is like 1.8x of the tile size and you always see 23 tiles in vertical, so actually you see more than you need.   
 
 Like my other post ["Past 7.5 months as a time-line"](http://naezith.com/past-7-5-months-as-a-time-line/ "Past 7.5 months as a time-line") (I recommend you to check that if you did not), I will do a very similar thing like "Past 4.5 months as a time-line", sounds cool in my opinion. Maybe that is my blogging style. But this time we won't have many gifs because I did not save builds so often. Whatever... lets start! 
 
-![](http://s6.postimg.org/tkutpuwwx/f1_RFrh_Z.png) Twin Claws of Naezith, the thunder dragon. 
+![](/assets/img/twin_claws.png) Twin Claws of Naezith, the thunder dragon. 
 
 The Two hooks idea was pretty new and that really pumped me the awesome motivation. I wanted to finish the character design/story/theme so I spent time on thinking, also discussing with friends about those stuff. And I completed those stuff, ofcourse there might be changes but it is like:
 
@@ -58,25 +58,25 @@ I had to implement a login system to have profiles for leaderboard. When game is
 
 I made a minimalist, cool GUI and it is enough for now. 
 
-![settings](http://s6.postimg.org/glt0muc69/vqu9x9_O.png) 
+![settings](/assets/img/settings_main.png) 
 
 I already implemented gamepad support before but after implementing replay system, I added bindable buttons for both keyboard and gamepad. 
 
-![controls](http://s6.postimg.org/dcelgdo2p/U6_QBAx_L.png) 
+![controls](/assets/img/settings_controls.png) 
 
 I met an artist 8 months ago, he is a great guy, and he is very talented. I was sharing every update with him and at last, we started working on assets of my game! It will take time but I am pretty sure that assets will be really great. There is still a lot of stuff to develop so I've got plenty of time for graphics. 
 
 I had almost nothing about how character should look like but I knew he must look super cool and badass because that's who I would like to control. I inspected many games, many characters and wrote down the elements I really like at them. And I spent most of my childhood gaming time with Prince of Persia series, I am a big fan of PoP, maybe because he was really cool, also the mechanics ofcourse. I was enjoying playing as prince when I was a kid, because he was pretty cool. So I searched more about PoP and thought of a character in my mind but at the end, it is looking very similar to him. I told artist about the character and also gave him this picture: 
 
-![Prince of Persia](http://s6.postimg.org/jvc171pnl/Sua_Blzd.png) 
+![Prince of Persia](/assets/img/prince_of_persia.png) 
 
 and bam, he came back with this: 
 
-![Boneslark's concept art](http://s6.postimg.org/xii3f9jq9/c_S5_DHAZ.png)   
+![Boneslark's concept art](/assets/img/boneslark_art.png)   
 
 Awesome right? I know, badass and cool! But yeah I am kidding that's from my friend [Boneslark](http://steamcommunity.com/id/Boneslark/), as you can see, he is also very talented at drawing. Here is the awesome artist's awesome work: 
 
-![Main character's rough drawings](http://s6.postimg.org/6d0jh0o4h/7_Vx3_Zq2.jpg) 
+![Main character's rough drawings](/assets/img/rough_drawings.jpg) 
 
 And my jaw dropped because he looks exactly same as the one I thought in my mind. Still looks like PoP but I love PoP so that is not a problem. I loved the middle one a lot, others look more agile but that one is my favorite. And at the bottom, there are smaller versions, he said it will be hard to have the same proportion with the something like 32x64 pixels sized sprite. Anyways, I LOVED IT! 
 
@@ -84,7 +84,7 @@ Every bit of these stuff pumps me motivation and motivation is like my fuel. So 
 
 Since I had the replay system implemented, I modified that a bit and added extra stuff and I made the ghost that you can race against. The best thing about this is you can race with anyone on the leaderboards, no matter if he is the guy #1 or guy #125473. But then it is optional so I put it in options. I made a config file and player binds and settings get saved. And couple days ago amazing artist sent a new art: 
 
-![Detailed concept](http://s6.postimg.org/b9468po9t/pq_Jvqej.jpg) 
+![Detailed concept](/assets/img/detailed_concept.jpg) 
 
 My brain melted when I saw this... **A M A Z I N G!** I mean I don't know how you see it but I find it fucking awesome, like 20x awesome, his face looks like Invoker from Dota 2. I also loved how the artist added some element like the glove without asking me. It just looks fantastic to me like I can't describe, my english knowledge is not enough for that! I'm sure he also make the sprite version pretty good, since he is this good. It looks so professional, it looks like some concept art of those AAA games. 
 
