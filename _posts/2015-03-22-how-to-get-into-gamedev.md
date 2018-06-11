@@ -22,7 +22,7 @@ Just take yourself into the editor or engine and start creating some stuff, you 
 
 ![](/assets/img/unity_logo.png) 
 
-If the main thing you want is to make a game, just go for Game Making tools or engines like [Unity](http://unity3d.com/5), [Game Maker](https://www.yoyogames.com/studio), [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4), most of them are free and really easy for starters. Also there are tons of tutorials and examples for them. 
+If the main thing you want is to make a game, just go for Game Making tools or engines like [Unity](https://unity3d.com/unity), [Game Maker](https://www.yoyogames.com/gamemaker), [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4), most of them are free and really easy for starters. Also there are tons of tutorials and examples for them. 
 
 But the main thing you want to achieve is to learn a programming language, be really fluent with that and learn how to create solutions for problems, it is way better to start from stratch. With stratch, I mean, not using any game engine or physics engine. Because those game engines, physics engines, game tools already solve most of the problems you might encounter. They are made to make games you know, they make your job easier. Ofcourse you will learn some Javascript/C# at [Unity](http://unity3d.com/5) or C++ in [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) but not much as you will learn at [SFML](http://www.sfml-dev.org/) with C++ or [LibGDX](http://libgdx.badlogicgames.com/) with Java. 
 

@@ -12,7 +12,7 @@ I thought like a small gif with the Zero sprite won't hurt, soooooooo here is a 
 
 **Edit (03.08.2015 14:20):** I cropped the view to get a smaller GIF. Many people got confused by the camera view, that's my bad that I did not mention, height of the character sprite is like 1.8x of the tile size and you always see 23 tiles in vertical, so actually you see more than you need.   
 
-Like my other post ["Past 7.5 months as a time-line"](http://naezith.com/past-7-5-months-as-a-time-line/ "Past 7.5 months as a time-line") (I recommend you to check that if you did not), I will do a very similar thing like "Past 4.5 months as a time-line", sounds cool in my opinion. Maybe that is my blogging style. But this time we won't have many gifs because I did not save builds so often. Whatever... lets start! 
+Like my other post ["Past 7.5 months as a time-line"](http://blog.naezith.com/2015/03/past-7-months-as-a-time-line "Past 7.5 months as a time-line") (I recommend you to check that if you did not), I will do a very similar thing like "Past 4.5 months as a time-line", sounds cool in my opinion. Maybe that is my blogging style. But this time we won't have many gifs because I did not save builds so often. Whatever... lets start! 
 
 ![](/assets/img/twin_claws.png) Twin Claws of Naezith, the thunder dragon. 
 
