@@ -8,7 +8,9 @@ Ehh, I know... last post is posted in March (4.5 months older than this post), I
 
 I thought like a small gif with the Zero sprite won't hurt, soooooooo here is a quick and smooth run: 
 
-(Camera view is cropped, normally you see all the obstacles) ![](/assets/img/zero_run.gif)
+(Camera view is cropped, normally you see all the obstacles) 
+
+![](/assets/img/zero_run.gif)
 
 **Edit (03.08.2015 14:20):** I cropped the view to get a smaller GIF. Many people got confused by the camera view, that's my bad that I did not mention, height of the character sprite is like 1.8x of the tile size and you always see 23 tiles in vertical, so actually you see more than you need.   
 
