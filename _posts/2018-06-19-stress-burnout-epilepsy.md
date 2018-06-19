@@ -30,6 +30,6 @@ We eventually went to doctor and talked about all these, decided to change the m
 
 4 months later, today, I still have this anxiety. I get some clear days sometimes but it's still around. I'm just resting and hoping that I will heal one day. Good thing is in this 4 months period since university ended, I released my game and quit my work, I didn't have any seizure! I suppose mine is completely about intense stress and lack of sleep.
 
-I didn't even know much about epilepsy before, only saw it before a game or movie starts, some people get triggered from flashing images. That was all I know. But after going through all these, it was a big lesson for me to understand the consequences of lack of sleep and extreme burnout. This article will remind me what not to do. I will tell you to take care too but I know that you will also feel like you have to skip some sleeps and go through tons of stress to have good grades/work. 
+I didn't even know much about epilepsy before, only saw it before a game or movie starts, some people get triggered from flashing images. That was all I knew. But after going through all these, it became a big lesson for me to understand the consequences of lack of sleep and extreme burnout. This article will remind me what not to do. I will tell you to take care too but I know that you will also feel like you have no option. You have to skip some sleeps and go through tons of stress to have good grades/work. 
 
 It never feels like it would happen to you, until it really happens.
