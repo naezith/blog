@@ -20,7 +20,7 @@ It was happening for first time, so we went to hospital, they said it might be a
 
 Every time I had a seizure, I wasn't even able to walk properly for like two weeks because all the muscles were in pain. These really killed my motivation to do anything. I started taking epilepsy pills, Keppra.
 
-After a while I started feeling more confident because I was using my pills. But I still had a weird feeling on me all the time like I'll have a seizure in any moment, this feeling was very similar to the one which interrupts my talk. Again, I got back in to my routine... 
+After a while I started feeling more confident because I was taking my pills. But I still had a weird feeling on me all the time like I'll have a seizure in any moment, this feeling was very similar to the one which interrupts my talk. Again, I got back in to my routine... 
 
 Some day in office, at a long talk, my talk got interrupted and again it caused a weird pause. When I started explaining it, it got even worse and it led to a panic attack. I was feeling ultra anxious like a seizure is coming. I laid down and even if they talked very positively, nothing fixed the situation, parents took me home. I was feeling terrible, this whole thing was just ruining my life, eventually I asked for a break from work.
 
