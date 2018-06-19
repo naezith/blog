@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Stress, burnout, epilepsy"
+date: 2018-06-19
+---
+
+Recently I watched the [Snowden](https://www.imdb.com/title/tt3774114/) movie, it's a biography and there were some scenes touched me personally because I also experienced them the same way. I decided to write this post to potentially help you.
+
+I love spending my time on computers, and that's what I do most of the time, living digitally. This got me into Computer Engineering, then developing a game, then working at a game company. Sounds all good and smooth I guess, but there is a problem, timelines of these activities overlapped for a couple months. I was still in university, working on the graduation project; I was developing my game; I was working full time at a game company. Before I started working at a company, I was already doing other two for 3 years without issue. Company was an awesome one with fun and nice people. I was enjoying working there.
+
+A day has 24 hours as you know, working 9 hours at a company, plus 2 hours of road, plus 2 hours of preparation and rest, leaves us 11 hours. Some people are fine with less but I need 8 hours of sleep, leaves us 3 hours. In these 3 hours a day, I needed to work on the university stuff with deadlines and also work on my game to release it in time. As you could guess, 3 hours is not enough for them, so I needed to borrow some hours from the sleep. I was still fine about it, it didn't feel like a big deal, I was accomplishing lots of stuff but all these tasks have their own problems which increases your stress levels.
+
+When you take a step back and take a look, it's basically like: Lack of sleep, high amount of stress all day, mental and physical exhaustion and hardly any leisure activities. I was aware of this but I still felt like I was able to cope with this. Also, it didn't seem possible to skip a semester at university, delay my game release or quit my job. I was stuck at this loop but it was going to end eventually this last semester was going to end and my game was going to release very soon. There wasn't much left for these, so I just kept working.
+
+These days I had a problem like, when I was telling a long story or talking too much, I was having a bit pressure in throat and I wasn't able to say anything even if I knew the word. It was causing a weird pause and it was bugging me a lot. However, whoever I talked to about this just said that it happens for them too. But no, this is not like you can't think of a word.
+
+At an evening of those ordinary days, I was working and webcam chatting with my girlfriend. Then randomly my body just froze, I wasn't able to move any muscle including the face ones. My eyes were open but vision was blurry, I was seeing my girlfriend in the monitor, I knew she was seeing me, I wasn't able to do anything. It felt so weird because I knew it was looking weird from outside. I wasn't able to talk since I can't move muscles, but I was able to hear. My chest muscles were getting tighter, pushing on my lungs. Air was going out of my mount, causing me to do a weird and long sound like 'aaaaaaaaa'. My body started to lean front and fall down slowly. I was completely conscious during these 20 seconds, until complete black-out. Waking up 5 minutes later,  parents are looking at me very panicked, mom is crying and everyone is asking stuff. I didn't remember anything, so I was asking them what happened. They said my girlfriend called them, and they found me on the ground, having a seizure. My whole body was hurting so much like someone beat me. Both sides of tongue were also hardly bitten.
+
+It was happening for first time, so we went to hospital, they said it might be a one time thing, but it also could be epilepsy, I didn't want to start taking pills right away, so we decided to wait until another one happens. Then unfortunately I kept doing what I was doing, because it didn't seem like there is an option. Eventually at university finals, I was at an exam without having an issue, until exactly the same body freeze happened randomly. All the stuff happened the same, I was seeing people turning their heads, looking at the sound I make. Everything was exactly the same, and I was laughing internally because I was feeling so desperate. 
+
+Every time I had a seizure, I wasn't even able to walk properly for like two weeks because all the muscles were in pain. These really killed my motivation to do anything. I started taking epilepsy pills, Keppra.
+
+After a while I started feeling more confident because I was using my pills. But I still had a weird feeling on me all the time like I'll have a seizure in any moment, this feeling was very similar to the one which interrupts my talk. Again, I got back in to my routine... 
+
+Some day in office, at a long talk, my talk got interrupted and again it caused a weird pause. When I started explaining it, it got even worse and it led to a panic attack. I was feeling ultra anxious like a seizure is coming. I laid down and even if they talked very positively, nothing fixed the situation, parents took me home. I was feeling terrible, this whole thing was just ruining my life, eventually I asked for a break from work.
+
+Five days later I finally released my game. Two days after that, I was at home and around 17:00 another seizure happened, exactly the same way. It just broke me emotionally. I talked to the boss and I quit the work. I was in terrible mood. Around 23:00, my fourth seizure happened. We went to doctor, increased the dose of pills. High dose of Keppra affected my mood so badly, into depression. I didn't even leave my bed, and I was annoyed to talk or listen to someone. These were the worse days of my life, never felt this depressive.
+
+We eventually went to doctor and talked about all these, decided to change the medicine to Lamictal. Decreased the Keppra and increased Lamictal for a month. I was feeling a lot better but that anxiety about feeling like having a seizure or cuts of talks were still there.
+
+4 months later, today, I still have this anxiety. I get some clear days sometimes but it's still around. I'm just resting and hoping that I will heal one day. Good thing is in this 4 months period since university ended, I released my game and quit my work, I didn't have any seizure! I suppose mine is completely about intense stress and lack of sleep.
+
+I didn't even know much about epilepsy before, only saw it before a game or movie starts, some people get triggered from flashing images. That was all I know. But after going through all these, it was a big lesson for me to understand the consequences of lack of sleep and extreme burnout. This article will remind me what not to do. I will tell you to take care too but I know that you will also feel like you have to skip some sleeps and go through tons of stress to have good grades/work. 
+
+It never feels like it would happen to you, until it really happens.
