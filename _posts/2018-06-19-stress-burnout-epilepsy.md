@@ -22,7 +22,7 @@ Every time I had a seizure, I wasn't even able to walk properly for like two wee
 
 After a while I started feeling more confident because I was taking my pills. But I still had a weird feeling on me all the time like I'll have a seizure in any moment, this feeling was very similar to the one which interrupts my talk. Again, I got back in to my routine... 
 
-Some day in office, at a long talk, my talk got interrupted and again it caused a weird pause. When I started explaining it, it got even worse and it led to a panic attack. I was feeling ultra anxious like a seizure is coming. I laid down and even if they talked very positively, nothing fixed the situation, parents took me home. I was feeling terrible, this whole thing was just ruining my life, eventually I asked for a break from work.
+Some day in office, at a long talk, my talk got interrupted and again it caused a weird pause. When I started explaining it, it got even worse and led to a panic attack. I was feeling ultra anxious like a seizure is coming. I laid down and even if they talked very positively, nothing fixed the situation, parents took me home. I was feeling terrible, this whole thing was just ruining my life, eventually I asked for a break from work.
 
 Five days later I finally released my game. Two days after that, I was at home and around 17:00 another seizure happened, exactly the same way. It just broke me emotionally. I talked to the boss and I quit the work. I was in terrible mood. Around 23:00, my fourth seizure happened. We went to doctor, increased the dose of pills. High dose of Keppra affected my mood so badly, into depression. I didn't even leave my bed, and I was annoyed to talk or listen to someone. These were the worse days of my life, never felt this depressive.
 
