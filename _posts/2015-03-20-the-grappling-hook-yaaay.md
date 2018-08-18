@@ -4,7 +4,7 @@ title: "The grappling hook, yaaay!"
 date: 2015-03-20
 ---
 
-I knew there were tons of game engines, game making tools, physics engines, whatever... My point was to learn C++ right? I would not learn much by using one of those stuff. Also I felt like those stuff are a bit big for my project, unnecessarily big. And I thought like using those tools would make the game worse, performance-wise. So I decided to make my game from stratch, from almost, I would only use the SFML as graphics library and thats it. An old friend who studies to be a graphic artist loved the idea and accepted to make it together, I need a graphic artist right? 
+I knew there were tons of game engines, game making tools, physics engines, whatever... My point was to learn C++ right? I would not learn much by using one of those stuff. Also I felt like those stuff are a bit big for my project, unnecessarily big. And I thought like using those tools would make the game worse, performance-wise. So I decided to make my game from scratch, from almost, I would only use the SFML as graphics library and thats it. An old friend who studies to be a graphic artist loved the idea and accepted to make it together, I need a graphic artist right? 
 
 ![Free-roaming in New York, Spider-man 2](/assets/img/spider-man-2-city.jpg "Free-roaming in New York, Spider-man 2")
 
