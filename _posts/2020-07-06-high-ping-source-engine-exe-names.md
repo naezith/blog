@@ -12,7 +12,7 @@ I saw `WTFast` before, offering better routes to the servers than the ones ISP p
 
 I looked for alternatives and found **`ExitLag`**, and it is amazing. Allowing me to add maximum of `4 routes`, best combination is `1 TCP` and `3 UDP` I think, since FPS games work with `UDP`. And `TCP` is there for other stuff, I've heard that `Overwatch` uses it sometimes. 
 
-**`ExitLag`** is a lot easier to use than anything else because it shows me more useful information about latency, paths etc. Ping went from 105 to 53-61 and zero freezes, it is just perfect.
+**`ExitLag`** is a lot easier to use than anything else because it shows me more useful information about latency, paths etc. Ping went from `105` to `53-61` and `zero freezes`, it is just `perfect`.
 
 Even though **`ExitLag`** has over 400 games including `Team Fortress 2`, it did not have `Left 4 Dead`, and that was a big deal breaker for me. However I know that TF2 and L4D are using the same game engine, Source Engine. 
 
