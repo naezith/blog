@@ -14,7 +14,7 @@ I looked for alternatives and found **`ExitLag`**, and it is amazing. Allowing m
 
 **`ExitLag`** is a lot easier to use than anything else because it shows me more useful information about latency, paths etc. Ping went from `105` to `53-61` and `zero freezes`, it is just `perfect`.
 
-Even though **`ExitLag`** has over 400 games including `Team Fortress 2`, it did not have `Left 4 Dead`, and that was a big deal breaker for me. However I know that TF2 and L4D are using the same game engine, Source Engine. 
+Even though **`ExitLag`** has over 400 games including `Team Fortress 2`, it did not have `Left 4 Dead`, and that was a big deal breaker for me. However I know that `TF2` and `L4D` are using the same game engine, Source Engine. 
 
 I know that TF2 executable is `hl2.exe` so I thought **`ExitLag`** was just looking for that name. I renamed `left4dead.exe` to `hl2.exe` but it did not launch, saying `Setup file 'gameinfo.txt' doesn't exist in subdirectory 'hl2'. Check your -game parameter or VCONFIG setting`. Then I made a basic shortcut to the `hl2.exe` and added the `-game left4dead` to the shortcut path. It worked, but launching the game from Steam is looking for `left4dead.exe`. So I didn't go with this route since I want to put game launch options at Steam like `-novid -lv`.
 
