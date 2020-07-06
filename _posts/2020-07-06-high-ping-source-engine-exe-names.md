@@ -4,7 +4,7 @@ title: "High ping, VPN and Source executables"
 date: 2020-07-06
 ---
 
-I am having high ping recently, and I can see it in `Team Fortress 2`, `Left 4 Dead`. For example an European server I get `105 ms`, but it should be `50-70`. So I started looking for solutions.
+I am having high ping recently, and I can see it in `Team Fortress 2`, `Left 4 Dead`. For example a European server I get `105 ms`, but it should be `50-70`. So I started looking for solutions.
 
 I already have `ExpressVPN`, and connecting to `Germany Frankfurt` helps a little, making it go down to `90`. Similar with `Dashlane Password Manager's VPN`, which is provided by `Hotspot Shield`. Both were freezing from time to time, `ExpressVPN` for `20 seconds` every couple minutes and `Hotspot Shield` for `3 seconds` every minute.
 
