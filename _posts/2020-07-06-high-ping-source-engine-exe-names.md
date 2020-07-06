@@ -23,3 +23,5 @@ To solve all these, I renamed `left4dead.exe` to `hl2.exe` and then I ran CMD as
 Steam was able to find and launch `left4dead.exe` and even apply `-novid -lv -freq 280 -noborder -fullscreen` launch options. And yes, ExitLag detected Left 4 Dead as Team Fortress 2 and worked the same way!
 
 I thought it would be good to save this experience here, for future myself or a random stranger.
+
+You can try ExitLag for 3 days using my referral link: https://www.exitlag.com/refer/3250737
