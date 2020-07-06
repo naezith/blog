@@ -24,4 +24,4 @@ Steam was able to find and launch `left4dead.exe` and even apply `-novid -lv -fr
 
 I thought it would be good to save this experience here, for future myself or a random stranger.
 
-You can try **`ExitLag`** for free using my referral link: https://www.exitlag.com/refer/3250737
+[You can try **`ExitLag`** for free using my referral link: https://www.exitlag.com/refer/3250737](https://www.exitlag.com/refer/3250737)
