@@ -24,10 +24,6 @@ Steam was able to find and launch `left4dead.exe` and even apply `-novid -lv -fr
 
 I thought it would be good to save this experience here, for future myself or a random stranger.
 
-[You can try **`ExitLag`** for free using my referral link: https://www.exitlag.com/refer/3250737](https://www.exitlag.com/refer/3250737)
-
 Edit: ExitLag froze for couple seconds only once during a long match. Also had very rare ping spikes.
 
 I tried **`VPNGame`** after writing the post, it's also really good alternative to ExitLag. Ping is near **`ExitLag`**. It does not have trial but it's possible to purchase 1-Day which is ultimately cheap, `12 RUB`. And monthly payment is only `$2` so I will probably prefer this instead of `$6.50` `ExitLag` subscription. I did not have any freezes so far. Though some servers did not connect, I don't know why. This has an option to add a custom executable which is great, like `left4dead.exe`!
-
-[My **`VPNGame`** referral link: https://vpngame.net/?rl=MjkwNTA3](https://vpngame.net/?rl=MjkwNTA3)
